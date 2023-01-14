@@ -1,13 +1,14 @@
 ![Github](https://user-images.githubusercontent.com/64391274/211215734-bbc57b92-9a71-496d-873e-3eedc7523916.png)
 
 
-# Project Name
-Long Description about project. This project do that. This project is awesome...
+# BOTL Assistant
+A simple voice assistant model using OpenAI API
 ## Team members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
+1. Abhijith G [https://github.com/abhijithgkrishna]
+2. Javeed Ahmad [Embed perosnal github URL]
+3. Rahul Das P
 ## Team Id
-Team id here(You can find it in email)
+2avJUrwvsBErEyeoAZfa
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?
