@@ -27,6 +27,6 @@ SpeechRecognition==3.9.0
 pip install requirements.txt
 ## How to Run
 Instructions for running
-1. Clone the repo and run following commands in the directory : 
-2. pip install -r requirements.txt &&
+1. Clone the repo and run following commands in the directory :  
+pip install -r requirements.txt &&
 3. python main.py
