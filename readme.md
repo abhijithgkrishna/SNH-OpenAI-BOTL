@@ -5,8 +5,8 @@
 A simple voice assistant model using OpenAI API
 ## Team members
 1. Abhijith G [https://github.com/abhijithgkrishna]
-2. Javeed Ahmad [Embed perosnal github URL]
-3. Rahul Das P
+2. Javeed Ahmad [https://github.com/JaVD054]
+3. Rahul Das P [https://github.com/RAHUL-DAS-P]
 ## Team Id
 2avJUrwvsBErEyeoAZfa
 ## Link to product walkthrough
