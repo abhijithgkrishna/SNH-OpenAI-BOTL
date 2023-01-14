@@ -28,5 +28,5 @@ pip install requirements.txt
 ## How to Run
 Instructions for running
 Clone the repo and run following commands in the directory :  
-pip install -r requirements.txt  
-python main.py
+>pip install -r requirements.txt  
+>python main.py
